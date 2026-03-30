@@ -57,7 +57,7 @@ digital-literacy-project/
 - Completed a beginner coding challenge on HackerRank  
 - Created a Google Form quiz on digital literacy  
 
- **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSf6T8m8ImAiVzd1jlyLfSTzzk0qEoZkdfogXLraJpBh01T59w/viewform?usp=sharing&ouid=103890086438196905385
+ **Quiz Link:** https://docs.google.com/forms/d/e/1FAIpQLSdPorWPpQbuqUY8IQjXpNMdTn6enV-Q0ofeEkgDdR9-jaN1ow/viewform?usp=sharing&ouid=115373030766373582520
 
 ---
 
