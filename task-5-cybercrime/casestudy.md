@@ -15,6 +15,3 @@ UPI fraud commonly targets students, elderly people, and individuals who are not
 
 ## Consequences
 The consequences of UPI fraud include financial loss, stress, and loss of trust in digital systems. In some cases, victims may not be able to recover their money. It can also lead to misuse of personal information for further fraud.
-
-## Conclusion
-UPI fraud highlights the importance of digital awareness and safe online practices. Users should never share their UPI PIN or click on unknown links, and should always verify the authenticity of requests before making any transactions.
